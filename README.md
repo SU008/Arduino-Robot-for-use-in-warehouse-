@@ -22,7 +22,7 @@ The project makes use of Arduino hardware e.g. Boards & shields and the Arduino 
 Prgramming languages used:
 -C++
 
-Components used: 
+Main Components used: 
 -1x H-Bridge L293D chip 
 -3x Ultrasonic sensor HC-SR04
 
